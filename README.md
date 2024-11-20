@@ -2,12 +2,13 @@
 
 🎓 **Computer Science Major | Freshman at UMass Amherst**  
 🔍 **Actively Seeking Summer 2025 Internships**  
-💡 Passionate about **innovative tech**, **problem-solving**, and **building impactful solutions**.  
+💡 Passionate about **innovative tech**, **problem-solving**, and **building impactful solutions**
 
 ## 🌟 About Me  
-Hi there! 👋 I'm a driven first-year undergraduate exploring the dynamic world of technology. With a strong foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference.  
+Hi there! 👋 I'm a  first-year undergraduate exploring the dynamic world of technology. With a constantly developing foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference.  
 
 **🌱 Currently Learning:** Python, Java, Web & App Development, Cybersecurity Basics (Ubuntu), Automation, AWS Cloud Computing, IoT Development  
+
 **💼 Interested In:** Product Management, Cybersecurity, AI, Software Engineering, Data Science  
 
 ## 🛠️ Technical Skills  
@@ -32,9 +33,8 @@ Hi there! 👋 I'm a driven first-year undergraduate exploring the dynamic world
 2. Contribute to open-source projects and develop impactful applications.  
 3. Secure an internship at a leading tech company in Summer 2025.  
 
-
 ## 📫 Connect with Me!  
-- **Email:** [personal123777@gmail.com](mailto:personal123777@gmail.com)  
+- **Email:** [[personal123777@gmail.com](mailto:personal123777@gmail.com)]  
 - **LinkedIn:** [[www.linkedin.com/in/parisa-singh](https://www.linkedin.com/in/parisa-singh/)]
 - **Medium:** [[medium.com/@parisasingh](https://medium.com/@creativecompiler)]  
 
