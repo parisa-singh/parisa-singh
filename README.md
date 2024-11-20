@@ -26,7 +26,8 @@ Hi there! 👋 I'm a  first-year undergraduate exploring the dynamic world of te
 - **Proximity Camera Development**: Leveraging IoT for intelligent camera systems.  
 - **Personal Finance Manager**: A tool to track and optimize personal expenses.  
 - **Chipotle Order Processor**: Automated invoice generation for food orders.  
-- **Games:** Wordle, Hangman, Tic-Tac-Toe – Implementing logic for classic games.  
+- **Games:** Wordle, Hangman, Tic-Tac-Toe – Implementing logic for classic games.
+- **Password Generator**: A tool to generate a unique password that is close to impossible to hack. 
 
 ## 🌐 Goals  
 - Build hands-on expertise in cybersecurity, cloud computing, and AI development.  
