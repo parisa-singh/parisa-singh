@@ -7,17 +7,17 @@
 ## 🌟 About Me  
 Hi there! 👋 I'm a  first-year undergraduate exploring the dynamic world of technology. With a constantly developing foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference.  
 
-**🌱 Currently Learning:** Python, Java, Web & App Development, Cybersecurity Basics (Ubuntu), Automation, AWS Cloud Computing, IoT Development  
+**📚 Currently Learning:** Python, Java, Web & App Development, Cybersecurity Basics (Ubuntu), Automation, AWS Cloud Computing, IoT Development  
 
-**💼 Interested In:** Product Management, Cybersecurity, AI, Software Engineering, Data Science  
+**🎯 Interested In:** Product Management, Cybersecurity, AI, Software Engineering, Data Science  
 
 ## 🛠️ Technical Skills  
 
-### Programming Languages  
+### 💻 Programming Languages  
 - **Coding:** Python, Java, HTML, TypeScript, JavaScript  
 - **Tools & Frameworks:** GUI, Git, VS Code, HTML/CSS (React, Angular)  
 
-### Speaking Languages  
+### 🌎 Speaking Languages  
 - **Fluent:** English, Hindi  
 - **Basic Proficiency:** French, Spanish  
 
