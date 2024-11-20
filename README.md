@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👩‍💻 Parisa Singh  
 
-<!--
-**parisa-singh/parisa-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Major | Freshman at UMass Amherst**  
+🔍 **Actively Seeking Summer 2025 Internships**  
+💡 Passionate about **innovative tech**, **problem-solving**, and **building impactful solutions**.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+Hi there! 👋 I'm a driven first-year undergraduate exploring the dynamic world of technology. With a strong foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 Currently Learning:** Python, Java, Web & App Development, Cybersecurity Basics (Ubuntu), Automation, AWS Cloud Computing, IoT Development  
+**💼 Interested In:** Product Management, Cybersecurity, AI, Software Engineering, Data Science  
+
+## 🛠️ Technical Skills  
+
+### Programming Languages  
+**Coding:** Python, Java, HTML, TypeScript, JavaScript  
+**Tools & Frameworks:** GUI, Git, VS Code, HTML/CSS (React, Angular)  
+
+### Speaking Languages  
+**Fluent:** English, Hindi  
+**Basic Proficiency:** French, Spanish  
+
+## 🚀 Projects  
+
+**Proximity Camera Development**: Leveraging IoT for intelligent camera systems.  
+**Personal Finance Manager**: A tool to track and optimize personal expenses.  
+**Chipotle Order Processor**: Automated invoice generation for food orders.  
+**Games:** Wordle, Hangman, Tic-Tac-Toe – Implementing logic for classic games.  
+
+## 🌐 Goals  
+1. Build hands-on expertise in cybersecurity, cloud computing, and AI development.  
+2. Contribute to open-source projects and develop impactful applications.  
+3. Secure an internship at a leading tech company in Summer 2025.  
+
+
+## 📫 Connect with Me!  
+- **Email:** [personal123777@gmail.com](mailto:personal123777@gmail.com)  
+- **LinkedIn:** [[www.linkedin.com/in/parisa-singh](https://www.linkedin.com/in/parisa-singh/)]
+- **Medium:** [[medium.com/@parisasingh](https://medium.com/@creativecompiler)]  
+
