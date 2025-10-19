@@ -1,11 +1,11 @@
 # 👩‍💻 Parisa Singh  
 
-🎓 **Computer Science Major | Freshman at UMass Amherst**  
-🔍 **Actively Seeking Summer 2025 Internships**  
+🎓 **Computer Science Major | Sophomore at UMass Amherst**  
+🔍 **Actively Seeking Summer 2026 Internships**  
 💡 Passionate about **innovative tech**, **problem-solving**, and **building impactful solutions**
 
 ## 🌟 About Me  
-Hi there! 👋 I'm a  first-year undergraduate exploring the dynamic world of technology. With a constantly developing foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference.  
+Hi there! 👋 I'm a  second-year undergraduate exploring the dynamic world of technology. With a constantly developing foundation in programming and a curiosity for emerging tech, I’m eager to contribute to innovative projects that make a difference.  
 
 **📚 Currently Learning:** Python, Java, Web & App Development, Cybersecurity Basics (Ubuntu), Automation, AWS Cloud Computing, IoT Development  
 
