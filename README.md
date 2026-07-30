@@ -2,6 +2,7 @@
 
 **Computer Science Major | Business Minor**  
 **University of Massachusetts Amherst** (Commonwealth Honors College)
+
 **Frontend Engineering • AI Integration • UI/UX • Cloud Computing • Product Development**
 
 I enjoy building software at the intersection of **engineering, AI, design and product**. My interests span frontend engineering, cloud computing, AI integration and creating intuitive digital experiences that solve real-world problems.
