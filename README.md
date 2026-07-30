@@ -29,11 +29,11 @@ I'm always interested in collaborating with people who enjoy building impactful 
 
 I'm open to:
 
-- 🚀 Open-source contributions
-- 💻 Collaborative software projects
-- 💡 Startup ideas and hackathons
-- 🔬 Research opportunities
-- 💼 Software Engineering, Frontend Engineering, Product, AI-based and UI/UX internship opportunities
+- Open-source contributions
+- Collaborative software projects
+- Startup ideas and hackathons
+- Research opportunities
+- Software Engineering, Frontend Engineering, Product, AI-based and UI/UX internship opportunities
 
 If you're working on something exciting, I would love to connect and collaborate!
 
