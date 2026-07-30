@@ -2,74 +2,49 @@
 
 **Computer Science Major | Business Minor**  
 **University of Massachusetts Amherst** (Commonwealth Honors College)
-
 **Frontend Engineering • AI Integration • UI/UX • Cloud Computing • Product Development**
 
-I'm passionate about building thoughtful software at the intersection of **engineering, AI, design and product**. I enjoy creating intuitive user experiences, integrating emerging technologies into practical solutions and building software that solves real-world problems.
+I enjoy building software at the intersection of **engineering, AI, design and product**. My interests span frontend engineering, cloud computing, AI integration and creating intuitive digital experiences that solve real-world problems.
 
-Through coursework, internships and personal projects, I am developing expertise in modern web development, cloud technologies and software systems while continuously exploring new ways technology can create meaningful impact.
+Through coursework, internships and personal projects, I am building a strong foundation in modern software engineering while exploring how technical decisions shape products and user experiences.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-- Python
-- Java
-- C++
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+**Languages**  
+Python • Java • C++ • JavaScript • TypeScript • HTML • CSS
 
-### Frameworks & Tools
-- React
-- Node.js
-- Flask
-- MongoDB
-- Git
-- REST APIs
+**Frameworks & Tools**  
+React • Node.js • Flask • MongoDB • Git • REST APIs
 
-### Currently Learning
-- AWS Cloud
-- Computer Systems
-- Database Systems
-- IoT Systems
-
----
-
-## 🚀 Current Focus
-
-- Building intuitive, user-centered web applications
-- Developing scalable frontend solutions
-- Exploring AI-powered software and cloud technologies
-- Strengthening product thinking and UX-driven development
-- Contributing to meaningful software projects
+**Currently Exploring**  
+AWS • Computer Systems • Databases • IoT
 
 ---
 
 ## 🤝 Let's Build Together
 
-I am always interested in collaborating with people who enjoy building impactful technology.
+I'm always interested in collaborating with people who enjoy building impactful technology.
 
 I'm open to:
 
-- Open-source contributions
-- Collaborative software projects
-- Startup ideas and hackathons
-- Research opportunities
-- Software Engineering, Frontend Engineering, Product and UI/UX internship opportunities
+- 🚀 Open-source contributions
+- 💻 Collaborative software projects
+- 💡 Startup ideas and hackathons
+- 🔬 Research opportunities
+- 💼 Software Engineering, Frontend Engineering, Product, AI-based and UI/UX internship opportunities
 
-If you are working on something exciting, I would love to connect and contribute!
+If you're working on something exciting, I would love to connect and collaborate!
 
 ---
 
-## 🌐 Portfolio & Connect
+## 🌐 Find Me Online
 
-**Portfolio:** https://parisa-singh.github.io/resume-website
+**Portfolio:** [https://parisa-singh.github.io/resume-website](https://parisa-singh.github.io/personal-website/)
 
-**LinkedIn:** https://www.linkedin.com/in/parisa-singh
+**LinkedIn:** [https://www.linkedin.com/in/parisa-singh](https://www.linkedin.com/in/parisa-singh/)
 
-**Email:** parisasingh@umass.edu
+**Email:** parisasingh@gmail.com 
 
-**Substack:** https://substack.com/@creativecompiler77
+**Substack:** [https://substack.com/@creativecompiler77](https://creativecompiler77.substack.com/)
